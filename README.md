@@ -10,11 +10,13 @@
 ###### C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
 - ##### Individual Steam id CS config filepath
-###### C:\Program Files (x86)\Steam\userdata\432xxxxxxx\730\local\cfg
+###### C:\Program Files (x86)\Steam\userdata\{STEAM_ID}\730\local\cfg
+
+- ##### video.txt and videodefaults.txt configs filepath
+###### C:\Program Files (x86)\Steam\userdata\{STEAM_ID}\730\local\cfg
 
 - ##### Steam userdata filepath
 ###### Windows: C:\Program Files (x86)\Steam\userdata
 ###### MacOS: ~/Library/Application Support/Steam/userdata
 ###### Linux: ~/.local/share/Steam/userdata
-
 ------
