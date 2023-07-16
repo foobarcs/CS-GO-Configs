@@ -1,7 +1,7 @@
 ![couter strike banner](https://i.ibb.co/Lh8ZJPw/counter-strike-2.jpg)
 
 ### Official Counter Strike Major Supplemental Rulebook
-[Volvo Couter Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
+[Volvo Counter Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
 ### Filepath for configs
