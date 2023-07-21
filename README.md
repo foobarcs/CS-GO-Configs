@@ -4,6 +4,7 @@
 [Volvo Counter Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
+
 ### Filepath for configs
 
 - ##### Global CS config filepath
@@ -19,6 +20,7 @@
 ###### Windows: C:\Program Files (x86)\Steam\userdata
 ###### MacOS: ~/Library/Application Support/Steam/userdata
 ###### Linux: ~/.local/share/Steam/userdata
+
 ------
 
 ### Token and Code
@@ -27,5 +29,3 @@ https://steamcommunity.com/dev/managegameservers
 
 #### Authentication Code for accessing Counter Strike match history (Leetify for example)
 https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
-
-------
