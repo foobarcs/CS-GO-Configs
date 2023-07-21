@@ -1,8 +1,8 @@
 ![couter strike banner](https://i.ibb.co/8Yq6F8T/cs2-banner-for-faceit.jpg)
 
 
-### Official Counter Strike Major Supplemental Rulebook
-[Volvo Counter Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
+### Official Counter-Strike Major Supplemental Rulebook
+[Volvo Counter-Strike Major Rulebook](https://github.com/ValveSoftware/counter-strike/blob/main/major-supplemental-rulebook.md)
 
 ------
 
@@ -25,8 +25,8 @@
 ------
 
 ### Token and Code
-#### Game Server Login Token for Creating Public/Private Counter Strike Server
+#### Game Server Login Token for Creating Public/Private Counter-Strike Server
 https://steamcommunity.com/dev/managegameservers
 
-#### Authentication Code for accessing Counter Strike match history (Leetify for example)
+#### Authentication Code for accessing Counter-Strike match history (Leetify for example)
 https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
