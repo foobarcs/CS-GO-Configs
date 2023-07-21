@@ -20,3 +20,12 @@
 ###### MacOS: ~/Library/Application Support/Steam/userdata
 ###### Linux: ~/.local/share/Steam/userdata
 ------
+
+### Token and Code
+#### Game Server Login Token for Creating Public/Private Counter Strike Server
+https://steamcommunity.com/dev/managegameservers
+
+#### Authentication Code for accessing Counter Strike match history (Leetify for example)
+https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
+
+------
