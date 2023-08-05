@@ -25,7 +25,7 @@
 ------
 
 ### Token and authentication code
-#### Game Server Login Token for Creating Public/Private Counter-Strike Server
+#### Game server login token for creating public/private Counter-Strike server
 https://steamcommunity.com/dev/managegameservers
 
 #### Authentication code for accessing Counter-Strike match history (Leetify for example)
