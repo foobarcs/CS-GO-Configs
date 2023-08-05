@@ -24,7 +24,7 @@
 
 ------
 
-### Token and authentication Code
+### Token and authentication code
 #### Game Server Login Token for Creating Public/Private Counter-Strike Server
 https://steamcommunity.com/dev/managegameservers
 
