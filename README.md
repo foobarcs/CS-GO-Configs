@@ -24,9 +24,16 @@
 
 ------
 
-### Token and Code
-#### Game Server Login Token for Creating Public/Private Counter-Strike Server
+### Token and authentication code
+#### Game server login token for creating public/private Counter-Strike server
 https://steamcommunity.com/dev/managegameservers
 
-#### Authentication Code for accessing Counter-Strike match history (Leetify for example)
+#### Authentication code for accessing Counter-Strike match history (Leetify for example)
 https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
+
+------
+
+### Miscellaneous commands
+#### bind key to spawn to specific position for jump/utils practice
+`getpos`  
+`bind mouse5 "setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000"`
