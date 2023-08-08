@@ -9,4 +9,4 @@
 - type: linear
 - 45g
 - 5 pin
-- pre-travel: 1.0mm / total trael: 3.0mm
+- pre-travel: 1.0mm / total travel: 3.0mm
