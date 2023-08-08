@@ -1,6 +1,6 @@
 ### Switches
 
-##### Outemu Gazzew BoBa Black U4
+##### Gazzew Boba Black U4
 - type: silent tactile
 - 62g
 - 3 pin
