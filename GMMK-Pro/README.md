@@ -10,3 +10,4 @@
 - 45g
 - 5 pin
 - pre-travel: 1.0mm / total travel: 3.0mm
+- lube: Krytox 205g0
