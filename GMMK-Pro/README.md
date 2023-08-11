@@ -5,7 +5,7 @@
 - 62g
 - 3 pin
 
-##### Akko CS Crystal Silver Switch
+##### Akko CS Crystal Silver
 - type: linear
 - 45g
 - 5 pin
