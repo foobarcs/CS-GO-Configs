@@ -1,3 +1,7 @@
+### GMMK Pro Mod
+- tempest tape mod
+- GSV2 stabilizers
+
 ### Switches
 
 ##### Gazzew Boba Black U4
