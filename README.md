@@ -34,6 +34,17 @@ https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=730&issueid=128
 ------
 
 ### Miscellaneous commands
-#### bind key to spawn to specific position for jump/utils practice
+#### `bind` command to find which key bind to what command
+example: `bind o` -> `"o" = "toggle volume 0.01 0.25"`
+
+#### `find` command to locate a command related to specific keyword
+example: `find money` ->  
+`"mp_afterroundmoney" = "0" client replicated - amount of money awared to every player after each round
+"mp_economy_reset_rounds" = "0" client replicated - Reset all player money every N rounds (0 for never)`
+
+#### bind a key to spawn to specific position for jump/utils practice
 `getpos`  
 `bind mouse5 "setpos 2055.492432 -132.761276 356.093811;setang -0.088000 -179.466614 0.000000"`
+
+#### activate a c4 and extend c4 duration time in seconds
+`ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLength 1200`
