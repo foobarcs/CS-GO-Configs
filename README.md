@@ -39,7 +39,7 @@ example: `bind o` -> `"o" = "toggle volume 0.01 0.25"`
 
 #### `find` command to locate a command related to specific keyword
 example: `find money` ->  
-`"mp_afterroundmoney" = "0" client replicated - amount of money awared to every player after each round
+`"mp_afterroundmoney" = "0" client replicated - amount of money awared to every player after each round  
 "mp_economy_reset_rounds" = "0" client replicated - Reset all player money every N rounds (0 for never)`
 
 #### bind a key to spawn to specific position for jump/utils practice
