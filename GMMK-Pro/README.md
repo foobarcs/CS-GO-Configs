@@ -1,5 +1,6 @@
 ### GMMK Pro
 - tempest tape mod
+- pcb/plate foam removed
 - GSV2 stabilizers
   - lube: Krytox 205g0
   - washer
