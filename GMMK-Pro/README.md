@@ -2,6 +2,7 @@
 - tempest tape mod
 - GSV2 stabilizers
   - lube: Krytox 205g0
+  - washer
 
 ### Switches
 
