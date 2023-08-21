@@ -6,7 +6,7 @@
 
 ### Switches
 
-#### Gazzew Boba Black U4
+#### Gazzew Boba Black U4 Silent
 - type: silent tactile
 - 62g
 - 5 pin
