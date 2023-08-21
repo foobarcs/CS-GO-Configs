@@ -1,4 +1,4 @@
-### GMMK Pro Mod
+### GMMK Pro
 - tempest tape mod
 - GSV2 stabilizers
   - lube: Krytox 205g0
