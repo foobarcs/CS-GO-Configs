@@ -6,12 +6,12 @@
 
 ### Switches
 
-##### Gazzew Boba Black U4
+#### Gazzew Boba Black U4
 - type: silent tactile
 - 62g
 - 5 pin
 
-##### Akko CS Crystal Silver
+#### Akko CS Crystal Silver
 - type: linear
 - 45g
 - 3 pin
